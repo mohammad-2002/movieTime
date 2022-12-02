@@ -123,7 +123,7 @@ const Summary = ({ shows }) => {
                       />
                     </div>
                     <div className="d-flex justify-content-end">
-                      Total : $ {ticketsCount * 90}
+                      Total : $ {ticketsCount * 100}
                     </div>
                   </div>
                   <div className="modal-footer">
